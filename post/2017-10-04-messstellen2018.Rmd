@@ -2,7 +2,7 @@
 title: 'Messstellen für das Monitoring 2018'
 author: ~
 date: '2017-10-04'
-slug: hello-world
+slug: messstellen-2018
 categories: []
 tags: []
 ---

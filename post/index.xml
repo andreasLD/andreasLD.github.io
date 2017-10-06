@@ -13,11 +13,11 @@
     
     <item>
       <title>Messstellen für das Monitoring 2018</title>
-      <link>https://andreasld.github.io/post/hello-world/</link>
+      <link>https://andreasld.github.io/post/messstellen-2018/</link>
       <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://andreasld.github.io/post/hello-world/</guid>
-      <description>Anzahl der zukünftigen Probestellen pro Bundesland  Table 1: Bundesländer und ihr Anteil an Landwirtschaft berechnet aus ATKIS-Daten (ATKIS_LAWI%), berechnet aus dem Ackerland vorbericht 2016 (ALVBERICHT_LAWI%) und die Verteilung des Königsteiner Schlüssels (KS%), sowie die Anzahl an Messstellen pro Bundesland für das zukünftige Monitoring bei insgesamt 380 Messstellen (MST_380) und 190 Messstellen (MST_190).  BL Bundesland ATKIS_LAWI% ALVBERICHT_LAWI% KS% MST_380 MST_190    BW Baden-Württemberg 7.</description>
+      <guid>https://andreasld.github.io/post/messstellen-2018/</guid>
+      <description>Auswahlkriterien  kleiner 30km² (0.46- 29.94) Einzugsgebietsfläche grrößer 40% (0.4 - 0.98) Landwirtschaft keine Kläranlage   Anzahl der zukünftigen Probestellen pro Bundesland  Table 1: Bundesländer und ihr Anteil an Landwirtschaft berechnet aus ATKIS-Daten (ATKIS_LAWI%), berechnet aus dem Ackerland vorbericht 2016 (ALVBERICHT_LAWI%) und die Verteilung des Königsteiner Schlüssels (KS%), sowie die Anzahl an Messstellen pro Bundesland für das zukünftige Monitoring bei insgesamt 380 Messstellen (MST_380) und 190 Messstellen (MST_190).</description>
     </item>
     
   </channel>
