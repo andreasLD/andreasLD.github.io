@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Andreas&#39; blog</title>
-    <link>/post/</link>
+    <link>https://andreasld.github.io/post/</link>
     <description>Recent content in Posts on Andreas&#39; blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://andreasld.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Messstellen für das Monitoring 2018</title>
-      <link>/post/messstellen-2018/</link>
+      <link>https://andreasld.github.io/post/messstellen-2018/</link>
       <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/messstellen-2018/</guid>
+      <guid>https://andreasld.github.io/post/messstellen-2018/</guid>
       <description>Auswahlkriterien  kleiner 30km² (0.46- 29.94) Einzugsgebietsfläche grrößer 40% (0.4 - 0.98) Landwirtschaft keine Kläranlage   Anzahl der zukünftigen Probestellen pro Bundesland  Table 1: Bundesländer und ihr Anteil an Landwirtschaft berechnet aus ATKIS-Daten (ATKIS_LAWI%), berechnet aus dem Ackerland vorbericht 2016 (ALVBERICHT_LAWI%) und die Verteilung des Königsteiner Schlüssels (KS%), sowie die Anzahl an Messstellen pro Bundesland für das zukünftige Monitoring bei insgesamt 380 Messstellen (MST_380) und 190 Messstellen (MST_190).</description>
     </item>
     
